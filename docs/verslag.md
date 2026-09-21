@@ -2,17 +2,17 @@
 
 Versienummer : 1
 
-Auteur :
+Auteur : Bram Hooiveld
 
-Studentnummer :
+Studentnummer : 0266808
 
-Klas :
+Klas : 24SDB
 
-Naam Keuzedeel:
+Naam Keuzedeel: Verdieping Software
 
 Code Keuzedeel:
 
-Datum :
+Datum : 16-9-2026
 
 ---
 
@@ -20,7 +20,7 @@ Datum :
 
 ## Inhoudsopgave
 
-- [Titel verslag](#titel-verslag))
+- [Titel verslag](#titel-verslag)
   - [Inhoudsopgave](#inhoudsopgave)
   - [Inleiding](#inleiding)
   - [Maakt een keuze voor software](#maakt-een-keuze-voor-software)
@@ -35,19 +35,88 @@ Datum :
 
 ## Inleiding
 
-Let op, dit is een voorbeeld opzet.
+Op Woensdag 16 September was het kuezedeel Verdieping Software begonnen. Hierbij moeten we de keuze maken wat wij ons willen verdieping voor de komende 20 weken of minder.
 
 ## Maakt een keuze voor software
 
+Voor het keuzedeel wil ik mij verdiepen in Javascript. Niet alleen JS maar een JS library met een focus op het animeren van elementen op de website.
+
 ### Onderzoek
 
-Zoek minstens 3 voorbeelden van vacatures met softwarepakketten óf 3 voorbeelden van bedrijven die bepaalde softwarepakketten gebruiken. Neem deze op in je verslag. Zorg dat je zowel een foto als link van elke vacature of website in je verslag zet.
+Zoek minstens 3 voorbeelden van vacatures met softwarepakketten of 3 voorbeelden van bedrijven die bepaalde softwarepakketten gebruiken. Neem deze op in je verslag. Zorg dat je zowel een foto als link van elke vacature of website in je verslag zet.
 
 Leg uit hoe je je onderzoek hebt gedaan.
+
+Voor het onderzoek heb ik drie libraries gevonden. Voor elke library bekijk ik de websites waar ze zijn gebruikt en de documentatie en demos als die er zijn. Ik ga niet zoeken naar vacatures voor elke library want het is te moeilijk om daat een specifieke voor te krijgen vanwege hoeveel library's bestaan.
+
+- Gsap 
+- Anime.js
+- Motion.js (Had eerst de naam van Framer.js) 
+
+### *[Gsap](https://gsap.com/)*
+
+Gsap is één van of wel de meest populaire Javascript animation library. gebruikt door [MaximaTharepy](https://maximatherapy.com/programs/3-to-18), [Ikea](https://www.family.ikea.es/demos/desmontando-los-30/) en [Forge automotive](https://forgeautomotive.co.uk/) en meer. 
+
+Het opstarten van Gsap 
+
+Gsap heeft drie manieren om het te importeren voor jouw project. 
+- Een npm commando 
+- Een cdn link 
+- Een yarn commando 
+
+Ook kan je een lijst aan functionaliteiten invullen om een automatische lijst van imports te krijgen. 
+
+```
+gsap.to(".box", { x: 200 })
+```
+
+Om een box te animeren moeten met het object gsap() en dan tussen Aanhalingstekens met de juiste class of id van het HTML object. Het volgende daarna tussen {} is voor wat we ermee willen doen. In dit voorbeeld beweegt het block 200px op de x as.
+
+### *[Anime.js](https://animejs.com/)*
+
+Anime.js is net zoals Gsap een Javascript animation library. Animejs can gebruikt worden same met Javascript en react en is gebruikt voor [Monkeytype](https://monkeytype.com/) en ook reclames op [TikTok](https://ads.tiktok.com/business/en?tt4b_lang_redirect=1). Ook wordt het gebruikt door [Riverside](https://riverside.com/).
+
+Het opstarten van Anime.js
+- With npm 
+- With a cdn
+- A direct download from the repo
+
+Anime.js heeft ook een uitgebruide documentatie dat over alle mogelijke dingen die je het kan voor gebruiken.
+
+
+### *[Motion.dev](https://motion.dev/)*
+
+Motion.dev is een flexibele JS library je kan het gebruiken met JS, React, Vue, Three.js en Vgpu. Het heeft ook developer tools zoals een Ai Kit, CSS studio en MotionScore. Motion.dev heeft veel gehoplen met het creeeren van ui bijvoorbeeld [Mlnk](https://mlnk.team/), [Sanda creates](https://sandracreates.com/) en [interstellar interiors](https://interstellarinteriors.com/).
+
+Het opstarten van Motion.dev  
+- met een package manager npm of yarn
+- met een script tag in de html
+
+Het gebruiken van Motion
+import de animatie functie
+```
+import { animate } from "motion"
+```
+
+gebruik animate() gebruik dan een css selector of de element direct.
+
+```
+// CSS selector
+animate(".box", { rotate: 360 })
+
+// Elements
+const boxes = document.querySelectorAll(".box")
+
+animate(boxes, { rotate: 360 })
+``` 
 
 ### Vergelijking
 
 Vergelijk de pakketten op tenminste 5 punten
+
+1. alle 3 zijn voor animaties.
+2. ze zijn ieder gebruikelijk met een front en framework zoals React of Vue.
+3. 
 
 ### Keuze
 
