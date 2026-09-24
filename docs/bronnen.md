@@ -11,7 +11,7 @@
 3. https://gsap.com/
 
 ---
-1. https://annnimate.com/compare/best-animation-libraries (Maandag 21 September)
-2. https://www.wmtips.com/technologies/javascript-libraries/filter/animation/ (Maandag 21 September)
-3. https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/ (Maandag 21 September)
-4. https://bestofjs.org/projects?tags=animation (Maandag 21 September)
+1. https://annnimate.com/compare/best-animation-libraries 
+2. https://www.wmtips.com/technologies/javascript-libraries/filter/animation/ 
+3. https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/ 
+4. https://bestofjs.org/projects?tags=animation 
