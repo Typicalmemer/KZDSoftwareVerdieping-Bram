@@ -11,7 +11,7 @@
 3. https://gsap.com/
 
 ---
-1. https://annnimate.com/compare/best-animation-libraries 
-2. https://www.wmtips.com/technologies/javascript-libraries/filter/animation/ 
-3. https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/ 
-4. https://bestofjs.org/projects?tags=animation 
+1. [annnimate.com](https://annnimate.com/compare/best-animation-libraries) door Good Fella. "Best Animation Libraries", laatst gewijzegd 20 Julie, 2026. 
+2. [wmtips.com](https://www.wmtips.com/technologies/javascript-libraries/filter/animation/). "Js libraries, most popular by 2026", de opgenomen data is laatst bijgewerkt op 28 September, 2026
+3. [jstool.gitlab](https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/). "The Top 100 Open-Source JavaScript Libraries", geraadpleegd op 28 September, 2026.
+4. [bestofjs.com](https://bestofjs.org/projects?tags=animation). "Animation libraries". geraadpleegd op 28 September, 2026.
