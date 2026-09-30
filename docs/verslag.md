@@ -112,21 +112,21 @@ animate(boxes, { rotate: 360 })
 
 ### Vergelijking
 
-|                       | Anime js | Gsap |  Motion.dev |
+|         | Anime js | Gsap |  Motion.dev |
 | :-------------- | :--------------: | :-----------: | :---------: |
 | **Prestatie**  | Lichtgewicht en presterend voor meer webanimaties zonder plugins [^1]| Goede prestaties voor wat grotere en complexe animaties [^10]| Gemaakt voor moderne en vloeiende animaties in de browser [^5]  |
 | **Functies** | Geeft de gebruiker de mogelijkheid om CSS, versleepbare elementen, SVG, scrollobservatie en Staggering. Je kan JavaScript en ook React ervoor gebruiken [^7].  | Gsap geeft de meeste mogelijkheden om het te gebruiken samen met vanilla JS, maar ook: React, Svelte, Vue en meer, zoals WebGL, Three.js en Webflow [^6].| Motion.dev heeft een uitgebreide documentatie en frameworks die er ook mee gebruikt kunnen worden. die zijn React en Vue. Samen met vanilla JavaScript [^5] |
 | **Gemak van gebruik** | Anime.js heeft een concentratie op een flexibele JavaScript-library om animaties te maken op het web. Je kan met npm of cdn het in een project gebruiken [^7]. | Gsap heeft een uitgebreide "Install helper" waar de makkelijk het can downloaden met npm, yarn of een CDN gebruiken. Ook kan je kiezen welke plugins en extra toevoegingen makkelijk aanvinken om de imports ervan te krijgen [^6]. | Redelijk gemakkelijk en goed met React. Het is te installeren met een npm-import of met een scripttag [^5].                         |
-| **Grootte**           |  Anime.js heeft veel kleine bestanden waarvan veel onder de 10 kilobytes zijn [^7], omdat het alleen importeert wat je nodig hebt                |  Het is groter dan andere, zeker met de extra plugins |  Het is flexibel, je hoeft alleen te importeren wat nodig is voor jouw project [^5]. |
+| **Grootte**           |  Anime.js heeft veel kleine bestanden waarvan veel onder de 10 kilobytes zijn [^7], omdat het alleen importeert wat je nodig hebt |  Het is groter dan andere, zeker met de extra plugins |  Het is flexibel, je hoeft alleen te importeren wat nodig is voor jouw project [^5]. |
 | **Ecosysteem**        | goede documentatie en gemeenschap, maar kleiner dan de grotere animation libraries [^7] [^4]  |   Gsap heeft een heel groot systeem van gebruikers en wordt door veel bedrijven gebruikt [^2] [^3] [^6] | Het is een bekende library met een gedetailleerde documentatie voor Javascript, React en Vue. En is het door bekende bedrijven gebruikt [^8] [^5].  |
 
 ### Keuze
 
-Voor mijn keuze uit de drie Javascript libraries kies ik Gsap. Kies ik voor GSAP.
+Voor mijn keuze uit de drie Javascript libraries kies ik Gsap.
 
 ### Arbeidsmarkt
 
-Binnen de arbeidsmarkt is geen specifieke vraag naar een bepaalde JS library, maar meer een vraag naar UI/UX designers en front-end developers die een framework zoals React of Vue kennen. De meeste, misschien alle vragen voor een front-end developer met React skills. Gsap zou mij hier in kunnen helpen omdat ik met de modules all React ga leren. Kan ik mij nieuwe kennis snel gebruiken samen met de library.
+Binnen de ardbeidsmarkt is er veel vraag naar een front en developer die een front-end framework kan React, Vue en of Svetle [^11]. En GSAP is een skill die ik kan implementeren met één van deze frameworks. Dit kan mij helpen om mijzelf te bewijzen in de markt en mijn kennis samen van JavaScript zelf en toekomstig React verder to onderbouwen. 
 
 ### Onderbouwing onderzoek en keuze
 
@@ -186,6 +186,10 @@ Leerdoelen behaald? Wat heb je geleerd? Wat zou je een volgende keer anders doen
 
 [^9]: [wappalyzer](https://www.wappalyzer.com/technologies/javascript-graphics/anime-js/). "websites using anime.js". geraadpleegd 30 September 2026. Een lijst van websites die anime.js gebruiken
 
-[^10] [annnimate.com](https://annnimate.com/compare/gsap-vs-anime-js). "comparison between Anime.js and GSAP". geraadpleegd 30 September 2026. vergelijkingen van GSAP en Anime.js
+[^10]: [annnimate.com](https://annnimate.com/compare/gsap-vs-anime-js). "comparison between Anime.js and GSAP". geraadpleegd 30 September 2026. vergelijkingen van GSAP en Anime.js
+
+[^11]: [Indeed.com](https://nl.indeed.com/jobs?q=front+end+developer&l=&from=searchOnHP%2Cwhatautocomplete%2CwhatautocompleteSourceStandard&vjk=a05d9b11e49634c0). "Front-end developers banen". 
+
+[^12]: [Why GSAP](https://gsap.com/blog/why-gsap/). "FAQ for GSAP". Veelgestelde vragen voor GSAP zoals map grootte en animaties.
 
 ##
