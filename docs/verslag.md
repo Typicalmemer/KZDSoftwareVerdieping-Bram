@@ -130,7 +130,7 @@ Binnen de ardbeidsmarkt is er veel vraag naar een front en developer die een fro
 
 ### Onderbouwing onderzoek en keuze
 
-Ik maak mijn uiteindelijke kueze voor GSAP, Omdat het de meeste flexibiliteit aan mij kan geven en het ook gemaakt is om wat grotere animaties en complexere te maken [^6]. De editie van het aantal front-endframeworks, zoals Svelte en React, die ik ook ermee kan gebruiken. Heeft het zeker een populaire keuze gemaakt voor veel bedrijven [^6]. Samen met de simpele en uitgebreide "install helper" wordt het makkelijk om een nieuw project te starten [^6].
+Ik maak mijn uiteindelijke keuze voor GSAP, omdat het de meeste flexibiliteit aan mij kan geven en het ook gemaakt is om wat grotere en complexere te maken [^6]. De editie van het aantal front-endframeworks, zoals Svelte en React, die ik ook ermee kan gebruiken. Heeft het zeker een populaire keuze gemaakt voor veel bedrijven [^6]. Samen met de simpele en uitgebreide "install helper" wordt het makkelijk om een nieuw project te starten [^6].
 
 ---
 
@@ -140,9 +140,40 @@ Ik maak mijn uiteindelijke kueze voor GSAP, Omdat het de meeste flexibiliteit aa
 
 Wat weet je al, wat weet je nog niet en wat wil je nog leren? Maak een overzicht van wat je al weet, wat je nog niet weet en wat je nog wilt leren. Zo krijg je inzicht in wat je al weet, en dus ook weet wat je nog niet weet. Neem de tijd om hierop te reflecteren.
 
+S.
+Tijdens het onderzoeken heb ik veel voorbeelden kunnen vinden van websites die de JS-library gebruiken. Van Figma en Motion, Monkeytype en Anime.js tot YouTube en GSAP, terwijl ik wel websites en praktische voorbeelden kon vinden. Kon ik geen vacatures vinden met een vraag voor deze JavaScript-libraries. Het dichtstbijzijnde wat ik kon komen was de vraag naar een front-end developer met een framework zoals React, waar ik dan GSAP kan gebruiken.
+
+T.
+Mijn taak was om 3 softwares te vergelijken op 5 punten uit mijn gekozen categorie, in dit geval JavaScript-animatiebibliotheken. Hierbij heb ik geen directe vacatures gevonden, maar wel genoeg websites die deze libraries gebruiken.
+
+A.
+Om zoveel mogelijk te vinden over elke library ben ik naar websites gegaan die de populariteit met elkaar vergelijken. En ging ik ook kijken naar de websites van de libraries zelf. Hier kon ik de meeste informatie vinden, zoals welke sites het gebruiken. 
+
+R.
+Aan het einde van mijn onderzoek heb ik mijn keuze kunnen maken tussen de drie libraries. Aan het einde van mijn onderzoek heb ik mijn opties overwogen en heb ik gekozen voor GSAP. 
+
+R.
+Ik had wel snel 3 libraries kunnen vinden, maar het was lastig om veel marktrelevantie te vinden naast mijn skills uitbreiden samen met een framework. Ik vond de zoektocht wel inspirerend en ik heb zelf kunnen concluderen wat mijn eerste keuze was: Anime.js. Na wat meer onderzoek kwam GSAP beter uit op hoeveel het is en nog wordt gebruikt en hoeveel het mij kan leren.
+
 ### Leerdoelen formuleren
 
 Maak een overzicht van je leerdoelen. Wat wil je leren en wat wil je bereiken? Formuleer je leerdoelen [SMART](https://www.uu.nl/sites/default/files/upper_leerdoelen_smart_opstellen.pdf).
+
+S.
+Ik ga voor mijn keuzedeel gebruik maken van mijn gekozen library GSAP om een interactive website te bouwen om te bewijzen dat ik de library beheers. Dit doe ik in mijn eentje samen met het toestemming om het juiste project van de docenten. Ik ga hier op school bezig voor de komende weken. Dit wil ik berijken zodat ik mezelf kan bewijzen en laten zien dat ik een interactieve website kan bouwen.
+
+M.
+Om mijn progressie meetbaar te kunnen maken wil ik een website bouwen waar ik laat zien wat ik geleerd heb. Ik denk dat aan de hand vanaf de websites gebruikers ervaringen goed aan te zien is of ik het heb geleerd. Dit helpt ook om mijn progressie te laten zien GSAP.
+
+A.
+Door daadwerkelijk een website met GSAP te maken, leer ik de library in de praktijk gebruiken. Tijdens het maken van de website pas ik verschillende GSAP-functionaliteiten toe. Ik kijk na afloop van onderdelen naar wat goed is gegaan en wat beter kon.
+
+R.
+Ik denk dat het mogelijk is om een website te bouwen die laat zien dat ik weet hoe ik GSAP heb leren beheersen. Ik werk hiervoor stap voor stap om mijn kennis uitbreiden
+
+T.
+Ik werk een paar keer per week aan mijn project. Tijdens het werken hou ik bij wat ik heb gedaan en lever ik aan het eind wat ik heb geleerd
+
 
 ### Prototype voorstel
 
