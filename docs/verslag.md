@@ -179,22 +179,6 @@ Ik werk minimaal twee keer per week aan mijn project. Tijdens het werken houd ik
 
 Een duidelijk, uitgebreid prototypevoorstel wat past bij de gestelde leerdoelen.
 
-Voor mijn voorstel beschrijf ik mijn denkproces en doe ik een klein onderzoek naar wat mijn voorstel nodig heeft.
-
-Leerdoelen:
-- GSAP verder ontwikkelen
-- Een website en de elementen op de website kunnen animeren
-
-Ik wil als prototype een website maken die mijn voortgang en vaardigheden met GSAP laat zien. Dit wil ik doen aan de hand van een portfoliowebsite. Hiermee laat ik zien wie ik ben en welke vaardigheden ik heb.
-
-Maar wat heeft een portfoliowebsite nodig?
-
-Een complete website heeft:
-- Een homepage
-- Projecten of werk
-- Een pagina 'Over mij'
-- Een contactpagina
-
 
 ### Planning
 
