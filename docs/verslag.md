@@ -1,18 +1,18 @@
 # Titel verslag
 
-Versienummer : 1
+Versienummer: 1
 
-Auteur : Bram Hooiveld
+Auteur: Bram Hooiveld
 
-Studentnummer : 0266808
+Studentnummer: 0266808
 
-Klas : 24SDB
+Klas: 24SDB
 
-Naam Keuzedeel: Verdieping Software
+Naam keuzedeel: Verdieping Software
 
-Code Keuzedeel:
+Code keuzedeel:
 
-Datum : 16-9-2026
+Datum: 16-9-2026
 
 ---
 
@@ -24,7 +24,7 @@ Datum : 16-9-2026
     - [Inhoudsopgave](#inhoudsopgave)
     - [Inleiding](#inleiding)
     - [Maakt een keuze voor software](#maakt-een-keuze-voor-software)
-        - [Ondezoek](#onderzoek)
+        - [Onderzoek](#onderzoek)
         - [Vergelijking](#vergelijking)
         - [Keuze](#keuze)
         - [Arbeidsmarkt](#arbeidsmarkt)
@@ -35,70 +35,70 @@ Datum : 16-9-2026
 
 ## Inleiding
 
-Op woensdag 16 september was het keuzedeel Verdieping Software begonnen. Hierbij moeten we de keuze maken waar wij ons in willen verdiepen voor de komende 20 weken of minder. Hierbij maak ik mijn keuze voor wat voor softwarepakket ik wil gebruiken. Ik kies dan drie uit de gekozen categorie en onderzoek deze. Na mijn onderzoek maak ik mijn definitieve keuze om mij in te verdiepen.
+Op woensdag 16 september is het keuzedeel Verdieping Software begonnen. Hierbij moeten we kiezen waarin we ons de komende 20 weken of minder willen verdiepen. Ik maak hierbij mijn keuze voor de software die ik wil gebruiken. Ik kies drie opties uit de gekozen categorie en onderzoek deze. Na mijn onderzoek maak ik mijn definitieve keuze waarin ik mij wil verdiepen.
 
 ## Maakt een keuze voor software
 
-Voor het keuzedeel wil ik mij verdiepen in Javascript. Niet alleen JS maar een JS library met een focus op het animeren van elementen op de website.
+Voor het keuzedeel wil ik mij verdiepen in JavaScript. Niet alleen in JS zelf, maar ook in een JS-library die zich richt op het animeren van elementen op een website.
 
 ### Onderzoek
 
-Voor het onderzoek heb ik drie libraries gevonden. Voor elke library bekijk ik de websites waar ze zijn gebruikt en de documentatie en demos als die er zijn. Ik ga niet zoeken naar vacatures voor elke library want het is te moeilijk omdat er geen specifieke vraag is naar een library.
+Voor het onderzoek heb ik drie libraries gevonden. Voor elke library bekijk ik de websites waarop deze wordt gebruikt, evenals de documentatie en demo's, als die er zijn. Ik ga niet zoeken naar vacatures voor elke library, omdat er niet specifiek naar één library wordt gevraagd.
 
-de libraries die ik heb gekozen om te onderzoeken zijn:
+De libraries die ik heb gekozen om te onderzoeken zijn:
 
-- Gsap
+- GSAP
 - Anime.js
-- Motion.dev (Had eerst de naam van Framer.js)
+- Motion.dev (heette eerst Framer Motion)
 
-### [Gsap](https://gsap.com/)
+### [GSAP](https://gsap.com/)
 
-Gsap is één van of wel de meest populaire Javascript animation library. gebruikt door [YouTube](https://www.youtube.com/), [Netlify](https://www.netlify.com/) en [EA](https://www.ea.com/) en meer [^6].
+GSAP is een van de meest populaire JavaScript-animatielibraries. De library wordt onder andere gebruikt door [YouTube](https://www.youtube.com/), [Netlify](https://www.netlify.com/) en [EA](https://www.ea.com/) [^6].
 
-Het opstarten van Gsap
+Het opstarten van GSAP
 
-Gsap heeft drie manieren om het te importeren voor jouw project.
+GSAP kan op verschillende manieren in je project worden geïmporteerd.
 
-- Een npm of yarn commando
-- Een cdn link
+- Een npm- of yarn-commando
+- Een CDN-link
 
-Ook kan je een lijst aan functionaliteiten invullen om een automatische lijst van imports te krijgen [^6].
+Ook kun je een lijst met functionaliteiten invullen om automatisch een lijst met imports te krijgen [^6].
 
 ```JS
 gsap.to(".box", { x: 200 })
 ```
 
-Om een box te animeren moeten met het object gsap.methode() en dan tussen Aanhalingstekens met de juiste class of id van het HTML object. Het volgende daarna tussen {} is voor wat we ermee willen doen. In dit voorbeeld beweegt het block 200px op de x as.
+Om een box te animeren, gebruik je een methode van het object `gsap`, gevolgd door de juiste class of id van het HTML-element tussen aanhalingstekens. Het gedeelte tussen `{}` geeft aan wat we ermee willen doen. In dit voorbeeld beweegt het blok 200 px over de x-as.
 
 ### [Anime.js](https://animejs.com/)
 
-Anime.js is net zoals Gsap een Javascript animation library. Animejs kan gebruikt worden same met Javascript en react en is gebruikt voor [Monkeytype](https://monkeytype.com/) en ook reclames op [TikTok](https://ads.tiktok.com/business/en?tt4b_lang_redirect=1). Ook wordt het gebruikt door [Riverside](https://riverside.com/) [^9].
+Anime.js is net als GSAP een JavaScript-animatielibrary. Anime.js kan worden gebruikt met JavaScript en React. De library wordt gebruikt door [Monkeytype](https://monkeytype.com/) en in reclames op [TikTok](https://ads.tiktok.com/business/en?tt4b_lang_redirect=1). Ook wordt de library gebruikt door [Riverside](https://riverside.com/) [^9].
 
 Het opstarten van Anime.js
 
-- With npm
-- With a cdn
-- A direct download from the repo
+- Met npm
+- Met een CDN
+- Door de library rechtstreeks uit de repository te downloaden
 
-Anime.js heeft ook een uitgebreide documentatie dat over alle mogelijke dingen die je het kan voor gebruiken [^7].
+Anime.js heeft ook uitgebreide documentatie over de verschillende manieren waarop je de library kunt gebruiken [^7].
 
 ### [Motion.dev](https://motion.dev/)
 
-Motion.dev is een flexibele JS library je kan het gebruiken met JS, React, Vue, Three.js en Webgpu. Het heeft ook developer tools zoals een Ai Kit, CSS studio en MotionScore [^5]. Motion.dev heeft veel partners [^8] zoals [Figma](https://www.figma.com/), [Linear](https://linear.app/) en [Sanity](https://www.sanity.io/).
+Motion.dev is een flexibele JS-library die je kunt gebruiken met JS, React, Vue, Three.js en WebGPU. De library heeft ook ontwikkeltools, zoals een AI-kit, CSS Studio en MotionScore [^5]. Motion.dev heeft veel partners [^8], zoals [Figma](https://www.figma.com/), [Linear](https://linear.app/) en [Sanity](https://www.sanity.io/).
 
 Het opstarten van Motion.dev
 
-- met een package manager npm of yarn
-- met een script tag in de html
+- Met een packagemanager zoals npm of yarn
+- Met een scripttag in de HTML
 
-Het gebruiken van Motion [^5]
-import de animatie functie
+Het gebruiken van Motion [^5]:
+Importeer de animatiefunctie:
 
 ```JS
 import { animate } from "motion"
 ```
 
-gebruik animate() gebruik dan een css selector of de element direct.
+Gebruik `animate()` met een CSS-selector of met het element zelf.
 
 ```JS
 // CSS selector
@@ -112,25 +112,25 @@ animate(boxes, { rotate: 360 })
 
 ### Vergelijking
 
-|         | Anime js | Gsap |  Motion.dev |
+|         | Anime.js | GSAP |  Motion.dev |
 | :-------------- | :--------------: | :-----------: | :---------: |
-| **Prestatie**  | Lichtgewicht en presterend voor meer webanimaties zonder plugins [^1]| Goede prestaties voor wat grotere en complexe animaties [^10]| Gemaakt voor moderne en vloeiende animaties in de browser [^5]  |
-| **Functies** | Geeft de gebruiker de mogelijkheid om CSS, versleepbare elementen, SVG, scrollobservatie en Staggering. Je kan JavaScript en ook React ervoor gebruiken [^7].  | Gsap geeft de meeste mogelijkheden om het te gebruiken samen met vanilla JS, maar ook: React, Svelte, Vue en meer, zoals WebGL, Three.js en Webflow [^6].| Motion.dev heeft een uitgebreide documentatie en frameworks die er ook mee gebruikt kunnen worden. die zijn React en Vue. Samen met vanilla JavaScript [^5] |
-| **Gemak van gebruik** | Anime.js heeft een concentratie op een flexibele JavaScript-library om animaties te maken op het web. Je kan met npm of cdn het in een project gebruiken [^7]. | Gsap heeft een uitgebreide "Install helper" waar de makkelijk het can downloaden met npm, yarn of een CDN gebruiken. Ook kan je kiezen welke plugins en extra toevoegingen makkelijk aanvinken om de imports ervan te krijgen [^6]. | Redelijk gemakkelijk en goed met React. Het is te installeren met een npm-import of met een scripttag [^5].                         |
-| **Grootte**           |  Anime.js heeft veel kleine bestanden waarvan veel onder de 10 kilobytes zijn [^7], omdat het alleen importeert wat je nodig hebt |  Het is groter dan andere, zeker met de extra plugins |  Het is flexibel, je hoeft alleen te importeren wat nodig is voor jouw project [^5]. |
-| **Ecosysteem**        | goede documentatie en gemeenschap, maar kleiner dan de grotere animation libraries [^7] [^4]  |   Gsap heeft een heel groot systeem van gebruikers en wordt door veel bedrijven gebruikt [^2] [^3] [^6] | Het is een bekende library met een gedetailleerde documentatie voor Javascript, React en Vue. En is het door bekende bedrijven gebruikt [^8] [^5].  |
+| **Prestatie**  | Lichtgewicht en geschikt voor diverse webanimaties zonder plugins [^1]| Geschikt voor snelle en geavanceerde animaties dankzij de vele plugins. Met lagSmoothing kun je problemen door CPU-pieken helpen voorkomen. Er zijn ook veel optimalisaties beschikbaar [^4] [^6] [^10] [^11]| Gemaakt voor moderne en vloeiende animaties in de browser [^5]  |
+| **Functies** | Biedt de mogelijkheid om CSS, versleepbare elementen, SVG, scrollobservatie en staggering te gebruiken. Je kunt de library gebruiken met JavaScript en React [^7].  | GSAP biedt veel mogelijkheden. Je kunt het gebruiken met vanilla JS, React, Svelte, Vue en meer, zoals WebGL, Three.js en Webflow [^6].| Motion.dev heeft uitgebreide documentatie en kan worden gebruikt met frameworks zoals React en Vue, maar ook met vanilla JavaScript [^5] |
+| **Gemak van gebruik** | Anime.js is een flexibele JavaScript-library voor het maken van webanimaties. Je kunt de library met npm of via een CDN in een project gebruiken [^7]. | GSAP heeft een uitgebreide 'Install Helper' waarmee je de library eenvoudig met npm, yarn of een CDN kunt installeren. Je kunt ook eenvoudig plugins en extra toevoegingen selecteren om de bijbehorende imports te krijgen [^6]. | Redelijk gemakkelijk en goed te gebruiken met React. De library kan worden geïnstalleerd met npm of via een scripttag [^5].                         |
+| **Grootte** |  Anime.js bestaat uit veel kleine bestanden, waarvan er veel kleiner zijn dan 10 kilobytes [^7]. Je importeert alleen wat je nodig hebt. |  De library is groter dan andere, vooral met extra plugins. |  De library is flexibel: je hoeft alleen te importeren wat nodig is voor jouw project [^5]. |
+| **Ecosysteem** | Goede documentatie en een gemeenschap, maar kleiner dan die van grotere animatielibraries [^7] [^4]  |   GSAP heeft een groot gebruikersbestand en wordt door veel bedrijven gebruikt. De library heeft ook veel maandelijkse downloads [^4]. Daarnaast is er buiten de officiële website veel informatie te vinden [^2] [^3] [^6]. | Het is een bekende library met uitgebreide documentatie voor JavaScript, React en Vue. Ook wordt de library door bekende bedrijven gebruikt [^8] [^5]. |
 
 ### Keuze
 
-Voor mijn keuze uit de drie Javascript libraries kies ik Gsap.
+Uit de drie JavaScript-libraries kies ik voor GSAP.
 
 ### Arbeidsmarkt
 
-Binnen de ardbeidsmarkt is er veel vraag naar een front en developer die een front-end framework kan React, Vue en of Svetle [^11]. En GSAP is een skill die ik kan implementeren met één van deze frameworks. Dit kan mij helpen om mijzelf te bewijzen in de markt en mijn kennis samen van JavaScript zelf en toekomstig React verder to onderbouwen. 
+Op de arbeidsmarkt is er veel vraag naar front-enddevelopers die een front-endframework zoals React, Vue en/of Svelte beheersen. GSAP is een vaardigheid die ik in combinatie met een van deze frameworks kan inzetten. Dit kan mij helpen om mezelf op de arbeidsmarkt te bewijzen en mijn kennis van JavaScript en later ook React verder te ontwikkelen.
 
 ### Onderbouwing onderzoek en keuze
 
-Ik maak mijn uiteindelijke keuze voor GSAP, omdat het de meeste flexibiliteit aan mij kan geven en het ook gemaakt is om wat grotere en complexere te maken [^6]. De editie van het aantal front-endframeworks, zoals Svelte en React, die ik ook ermee kan gebruiken. Heeft het zeker een populaire keuze gemaakt voor veel bedrijven [^6]. Samen met de simpele en uitgebreide "install helper" wordt het makkelijk om een nieuw project te starten [^6].
+Ik kies uiteindelijk voor GSAP, omdat het veel flexibiliteit biedt. Doordat het veel wordt gebruikt, is er naast de documentatie ook veel informatie beschikbaar. De mogelijkheid om GSAP met verschillende front-endframeworks, zoals Svelte en React, te gebruiken, maakt het een populaire keuze voor veel bedrijven [^6]. Dankzij de eenvoudige en uitgebreide 'Install Helper' is het bovendien makkelijk om een nieuw project te starten [^6].
 
 ---
 
@@ -141,43 +141,60 @@ Ik maak mijn uiteindelijke keuze voor GSAP, omdat het de meeste flexibiliteit aa
 Wat weet je al, wat weet je nog niet en wat wil je nog leren? Maak een overzicht van wat je al weet, wat je nog niet weet en wat je nog wilt leren. Zo krijg je inzicht in wat je al weet, en dus ook weet wat je nog niet weet. Neem de tijd om hierop te reflecteren.
 
 S.
-Tijdens het onderzoeken heb ik veel voorbeelden kunnen vinden van websites die de JS-library gebruiken. Van Figma en Motion, Monkeytype en Anime.js tot YouTube en GSAP, terwijl ik wel websites en praktische voorbeelden kon vinden. Kon ik geen vacatures vinden met een vraag voor deze JavaScript-libraries. Het dichtstbijzijnde wat ik kon komen was de vraag naar een front-end developer met een framework zoals React, waar ik dan GSAP kan gebruiken.
+Tijdens het onderzoek heb ik veel voorbeelden gevonden van websites die de JS-libraries gebruiken, zoals Figma, Motion, Monkeytype, Anime.js, YouTube en GSAP. Hoewel ik websites en praktische voorbeelden kon vinden, kon ik geen vacatures vinden waarin specifiek naar deze JavaScript-libraries werd gevraagd. Het dichtstbij kwam ik bij vacatures voor front-enddevelopers die een framework zoals React beheersen, in combinatie waarmee ik GSAP kan gebruiken.
 
 T.
-Mijn taak was om 3 softwares te vergelijken op 5 punten uit mijn gekozen categorie, in dit geval JavaScript-animatiebibliotheken. Hierbij heb ik geen directe vacatures gevonden, maar wel genoeg websites die deze libraries gebruiken.
+Mijn taak was om drie softwarebibliotheken op vijf punten te vergelijken binnen de gekozen categorie, in dit geval JavaScript-animatiebibliotheken. Ik heb geen directe vacatures gevonden, maar wel genoeg websites die deze libraries gebruiken.
 
 A.
-Om zoveel mogelijk te vinden over elke library ben ik naar websites gegaan die de populariteit met elkaar vergelijken. En ging ik ook kijken naar de websites van de libraries zelf. Hier kon ik de meeste informatie vinden, zoals welke sites het gebruiken. 
+Om zoveel mogelijk over elke library te weten te komen, heb ik websites geraadpleegd die de populariteit van de libraries met elkaar vergelijken. Ook heb ik de websites van de libraries zelf bekeken. Daar kon ik de meeste informatie vinden, zoals welke websites de libraries gebruiken.
 
 R.
-Aan het einde van mijn onderzoek heb ik mijn keuze kunnen maken tussen de drie libraries. Aan het einde van mijn onderzoek heb ik mijn opties overwogen en heb ik gekozen voor GSAP. 
+Aan het einde van mijn onderzoek heb ik de drie libraries met elkaar vergeleken en mijn keuze gemaakt. Ik heb uiteindelijk voor GSAP gekozen.
 
 R.
-Ik had wel snel 3 libraries kunnen vinden, maar het was lastig om veel marktrelevantie te vinden naast mijn skills uitbreiden samen met een framework. Ik vond de zoektocht wel inspirerend en ik heb zelf kunnen concluderen wat mijn eerste keuze was: Anime.js. Na wat meer onderzoek kwam GSAP beter uit op hoeveel het is en nog wordt gebruikt en hoeveel het mij kan leren.
+Ik kon snel drie libraries vinden, maar het was lastig om veel informatie over hun relevantie op de arbeidsmarkt te vinden. Ik vond het onderzoek wel inspirerend. In eerste instantie dacht ik dat Anime.js mijn eerste keuze zou zijn. Na meer onderzoek bleek GSAP beter aan te sluiten bij wat ik wilde leren en kwam ik erachter dat het veel wordt gebruikt.
 
 ### Leerdoelen formuleren
 
 Maak een overzicht van je leerdoelen. Wat wil je leren en wat wil je bereiken? Formuleer je leerdoelen [SMART](https://www.uu.nl/sites/default/files/upper_leerdoelen_smart_opstellen.pdf).
 
 S.
-Ik ga voor mijn keuzedeel gebruik maken van mijn gekozen library GSAP om een interactive website te bouwen om te bewijzen dat ik de library beheers. Dit doe ik in mijn eentje samen met het toestemming om het juiste project van de docenten. Ik ga hier op school bezig voor de komende weken. Dit wil ik berijken zodat ik mezelf kan bewijzen en laten zien dat ik een interactieve website kan bouwen.
+Voor mijn keuzedeel ga ik mijn gekozen library, GSAP, gebruiken om een interactieve website te bouwen en aan te tonen dat ik de library beheers. Ik doe dit zelfstandig, met toestemming van de docenten om het juiste project te gebruiken. De komende weken werk ik hier op school aan. Ik wil dit bereiken om te laten zien dat ik een interactieve website kan bouwen.
 
 M.
-Om mijn progressie meetbaar te kunnen maken wil ik een website bouwen waar ik laat zien wat ik geleerd heb. Ik denk dat aan de hand vanaf de websites gebruikers ervaringen goed aan te zien is of ik het heb geleerd. Dit helpt ook om mijn progressie te laten zien GSAP.
+Om mijn voortgang meetbaar te maken, wil ik een website bouwen waarop ik laat zien wat ik heb geleerd. Aan de hand van de gebruikerservaring van de website kan worden beoordeeld of ik de leerdoelen heb behaald. De website helpt ook om mijn voortgang met GSAP te laten zien.
 
 A.
-Door daadwerkelijk een website met GSAP te maken, leer ik de library in de praktijk gebruiken. Tijdens het maken van de website pas ik verschillende GSAP-functionaliteiten toe. Ik kijk na afloop van onderdelen naar wat goed is gegaan en wat beter kon.
+Door daadwerkelijk een website met GSAP te maken, leer ik de library in de praktijk gebruiken. Tijdens het maken van de website pas ik verschillende GSAP-functionaliteiten toe. Na afloop van onderdelen kijk ik wat goed is gegaan en wat beter kan.
 
 R.
-Ik denk dat het mogelijk is om een website te bouwen die laat zien dat ik weet hoe ik GSAP heb leren beheersen. Ik werk hiervoor stap voor stap om mijn kennis uitbreiden
+Ik denk dat het mogelijk is om een website te bouwen die laat zien dat ik GSAP beheers. Hiervoor werk ik stap voor stap aan het uitbreiden van mijn kennis.
 
 T.
-Ik werk een paar keer per week aan mijn project. Tijdens het werken hou ik bij wat ik heb gedaan en lever ik aan het eind wat ik heb geleerd
+Ik werk minimaal twee keer per week aan mijn project. Tijdens het werken houd ik bij wat ik heb gedaan, met commits of door dit te noteren. Aan het einde lever ik in wat ik heb geleerd.
 
 
 ### Prototype voorstel
 
 Een duidelijk, uitgebreid prototypevoorstel wat past bij de gestelde leerdoelen.
+
+Voor mijn voorstel beschrijf ik mijn denkproces en doe ik een klein onderzoek naar wat mijn voorstel nodig heeft.
+
+Leerdoelen:
+- GSAP verder ontwikkelen
+- Een website en de elementen op de website kunnen animeren
+
+Ik wil als prototype een website maken die mijn voortgang en vaardigheden met GSAP laat zien. Dit wil ik doen aan de hand van een portfoliowebsite. Hiermee laat ik zien wie ik ben en welke vaardigheden ik heb.
+
+Maar wat heeft een portfoliowebsite nodig?
+
+Een complete website heeft:
+- Een homepage
+- Projecten of werk
+- Een pagina 'Over mij'
+- Een contactpagina
+
 
 ### Planning
 
@@ -185,7 +202,7 @@ Maak een planning met een uitgewerkte tijdslijn van de te volgen stappen om je l
 
 ### Logboek
 
-Hou een logboek bij van de tijd die je besteed aan het maken van je prototype. Noteer hierin ook de stappen die je hebt gezet om je leerdoelen te behalen.
+Houd een logboek bij van de tijd die je besteedt aan het maken van je prototype. Noteer hierin ook de stappen die je hebt gezet om je leerdoelen te behalen.
 
 ## Prototype
 
@@ -199,28 +216,26 @@ Leerdoelen behaald? Wat heb je geleerd? Wat zou je een volgende keer anders doen
 
 ## Bronnen
 
-[^1]: [annnimate.com](https://annnimate.com/compare/best-animation-libraries) door Good Fella. "Best Animation Libraries", laatst gewijzegd 20 Julie, 2026.
+[^1]: [annnimate.com](https://annnimate.com/compare/best-animation-libraries) door Good Fella. "Best Animation Libraries", laatst gewijzigd op 20 juli 2026.
 
-[^2]: [wmtips.com](https://www.wmtips.com/technologies/javascript-libraries/filter/animation/). "Js libraries, most popular by 2026", de opgenomen data is laatst bijgewerkt op 28 September, 2026.
+[^2]: [wmtips.com](https://www.wmtips.com/technologies/javascript-libraries/filter/animation/). "JS libraries, most popular by 2026", de opgenomen data is laatst bijgewerkt op 28 september 2026.
 
-[^3]: [jstool.gitlab](https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/). "The Top 100 Open-Source JavaScript Libraries", geraadpleegd op 28 September, 2026.
+[^3]: [jstool.gitlab](https://jstool.gitlab.io/blog/posts/the-most-popular-javascript-libraries-in-2026/). "The Top 100 Open-Source JavaScript Libraries", geraadpleegd op 28 september 2026.
 
-[^4]: [bestofjs.com](https://bestofjs.org/projects?tags=animation). "Animation libraries". geraadpleegd op 28 September, 2026.
+[^4]: [bestofjs.com](https://bestofjs.org/projects?tags=animation). "Animation libraries", geraadpleegd op 28 september 2026.
 
-[^5]: [Motion.dev](https://motion.dev/). eerst genoemd as framer-motion. geraadpleegd 16 September 2026.
+[^5]: [Motion.dev](https://motion.dev/). Eerst bekend als Framer Motion. Geraadpleegd op 16 september 2026.
 
-[^6]: [Gsap.com](https://gsap.com/). geraadpleegd 16 September 2026. Bijna onderaan de pagina boven de demos staan welke merken allemaal Gsap hebben gebruikt.
+[^6]: [GSAP.com](https://gsap.com/). Geraadpleegd op 16 september 2026. Bijna onderaan de pagina, boven de demo's, staat welke merken GSAP hebben gebruikt.
 
-[^7]: [Anime.js](https://animejs.com/) geraadpleegd 16 September 2026.
+[^7]: [Anime.js](https://animejs.com/), geraadpleegd op 16 september 2026.
 
-[^8]: [Motion.dev partners](https://motion.dev/partners#partners). Dit zijn de partners/bedrijven waarmee motion.dev heeft gewerkt. geraadpleegd op 28 September, 2026.
+[^8]: [Motion.dev partners](https://motion.dev/partners#partners). Dit zijn de partners en bedrijven waarmee Motion.dev heeft gewerkt. Geraadpleegd op 28 september 2026.
 
-[^9]: [wappalyzer](https://www.wappalyzer.com/technologies/javascript-graphics/anime-js/). "websites using anime.js". geraadpleegd 30 September 2026. Een lijst van websites die anime.js gebruiken
+[^9]: [Wappalyzer](https://www.wappalyzer.com/technologies/javascript-graphics/anime-js/). "Websites using Anime.js", geraadpleegd op 30 september 2026. Een lijst met websites die Anime.js gebruiken.
 
-[^10]: [annnimate.com](https://annnimate.com/compare/gsap-vs-anime-js). "comparison between Anime.js and GSAP". geraadpleegd 30 September 2026. vergelijkingen van GSAP en Anime.js
+[^10]: [annnimate.com](https://annnimate.com/compare/gsap-vs-anime-js). "Comparison between Anime.js and GSAP", geraadpleegd op 30 september 2026. Een vergelijking van GSAP en Anime.js.
 
-[^11]: [Indeed.com](https://nl.indeed.com/jobs?q=front+end+developer&l=&from=searchOnHP%2Cwhatautocomplete%2CwhatautocompleteSourceStandard&vjk=a05d9b11e49634c0). "Front-end developers banen". 
-
-[^12]: [Why GSAP](https://gsap.com/blog/why-gsap/). "FAQ for GSAP". Veelgestelde vragen voor GSAP zoals map grootte en animaties.
+[^11]: [Why GSAP](https://gsap.com/blog/why-gsap/). "FAQ for GSAP". Veelgestelde vragen over GSAP, zoals de bestandsgrootte en animaties.
 
 ##
