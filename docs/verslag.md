@@ -130,7 +130,7 @@ Op de arbeidsmarkt is er veel vraag naar front-enddevelopers die een front-endfr
 
 ### Onderbouwing onderzoek en keuze
 
-Ik kies uiteindelijk voor GSAP, omdat het veel flexibiliteit biedt. Doordat het veel wordt gebruikt, is er naast de documentatie ook veel informatie beschikbaar. De mogelijkheid om GSAP met verschillende front-endframeworks, zoals Svelte en React, te gebruiken, maakt het een populaire keuze voor veel bedrijven [^6]. Dankzij de eenvoudige en uitgebreide 'Install Helper' is het bovendien makkelijk om een nieuw project te starten [^6].
+Ik kies uiteindelijk voor GSAP, omdat het veel flexibiliteit doordat het de optie geeft om zelf animatie delen geeft. Ook omdat het veel wordt gebruikt, is er naast de documentatie ook veel informatie beschikbaar. De mogelijkheid om GSAP met verschillende front-endframeworks, zoals Svelte en React, te gebruiken, maakt het een populaire keuze voor veel bedrijven [^6]. Dankzij de eenvoudige en uitgebreide 'Install Helper' is het bovendien makkelijk om een nieuw project te starten [^6].
 
 ---
 
