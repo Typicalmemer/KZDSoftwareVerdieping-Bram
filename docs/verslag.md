@@ -159,26 +159,23 @@ Ik kon snel drie libraries vinden, maar het was lastig om veel informatie over h
 
 Maak een overzicht van je leerdoelen. Wat wil je leren en wat wil je bereiken? Formuleer je leerdoelen [SMART](https://www.uu.nl/sites/default/files/upper_leerdoelen_smart_opstellen.pdf).
 
-S.
-Voor mijn keuzedeel ga ik mijn gekozen library, GSAP, gebruiken om een interactieve website te bouwen en aan te tonen dat ik de library beheers. Ik doe dit zelfstandig, met toestemming van de docenten om het juiste project te gebruiken. De komende weken werk ik hier op school aan. Ik wil dit bereiken om te laten zien dat ik een interactieve website kan bouwen.
+Aan het einde wil ik deze drie dingen hebben geleerd:
+- hoe ik een of meerdere elementen kan animeren
+- hoe ik met scrollen kan animeren
+- hoe ik complexe animaties kan opbouwen en beheersen met timelines  
 
-M.
-Om mijn voortgang meetbaar te maken, wil ik een website bouwen waarop ik laat zien wat ik heb geleerd. Aan de hand van de gebruikerservaring van de website kan worden beoordeeld of ik de leerdoelen heb behaald. De website helpt ook om mijn voortgang met GSAP te laten zien.
+#### 1. een of meerdere elementen kunnen animeren
+Aan het einde wil ik één of meerdere elementen kunnen animeren, zoals knoppen, achtergrondselementen en modals. Ik wil minimaal drie elementen kunnen animeren, de animatie kunnen laten herhalen en ervoor zorgen dat elementen kunnen reageren op gebruikersinvoer. Dit moet ik doen in een praktische applicatie en het moet gebruiksvriendelijk zijn voor de gebruiker. Dit doel helpt mij bij het leren van de basis, zodat ik dit later altijd kan gebruiken en niet slechts één keer en daarna nooit meer.
 
-A.
-Door daadwerkelijk een website met GSAP te maken, leer ik de library in de praktijk gebruiken. Tijdens het maken van de website pas ik verschillende GSAP-functionaliteiten toe. Na afloop van onderdelen kijk ik wat goed is gegaan en wat beter kan.
+#### 2. hoe ik met scrollen kan animeren
+Ik wil met GSAP de website kunnen laten reageren op het scrollgedrag van de gebruiker, zodat animaties kunnen worden geactiveerd en afgespeeld wanneer elementen zichtbaar worden in de viewport. Hiervoor wil ik, met behulp van de documentatie en andere bronnen, twee animaties maken die reageren op zichtbaarheid in de viewport. Dit helpt mij om een essentieel onderdeel van GSAP te leren en mijn kennis op dit gebied uit te breiden. Dit doel is haalbaar omdat het een basisonderdeel van GSAP is en niet bijzonder complex is. Ik wil dit leren in week 47, samen met leerdoel 1.
 
-R.
-Ik denk dat het mogelijk is om een website te bouwen die laat zien dat ik GSAP beheers. Hiervoor werk ik stap voor stap aan het uitbreiden van mijn kennis.
-
-T.
-Ik werk minimaal twee keer per week aan mijn project. Tijdens het werken houd ik bij wat ik heb gedaan, met commits of door dit te noteren. Aan het einde lever ik in wat ik heb geleerd.
-
+#### 3. hoe ik complexe animaties kan opbouwen en beheersen met timelines 
+Ik wil met GSAP een timeline kunnen maken om een reeks animaties aan elkaar te koppelen en zo één complexe en langere animatie te creëren. Ik wil, samen met het begrip van doel 1, mijn kennis van timelines verder uitbreiden, zodat ik dit ook effectief kan toepassen. Samen met de eerste doelen kan ik dit met relatief weinig moeite leren. Ik hoop dit direct na de eerste twee doelen te leren, in week 48.
 
 ### Prototype voorstel
 
 Een duidelijk, uitgebreid prototypevoorstel wat past bij de gestelde leerdoelen.
-
 
 ### Planning
 
